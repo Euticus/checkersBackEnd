@@ -1,24 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Hi this is the Checkers backend built by Jay Stewart! 
 
-Things you may want to cover:
+To run this you just type:
 
-* Ruby version
+rails s
 
-* System dependencies
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This is set up grab a single dimensional array of strings from a PostgreSQL database. Once running the server should be running on: `~./api/v1/games`
